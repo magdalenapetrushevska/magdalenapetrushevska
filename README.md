@@ -9,7 +9,7 @@
 <br/>
  🔭 At the moment my work is focused on my already existing projects and their completion.**
  
- 🌱 I'm currently learning React, ThreeJS and TailwindCSS.**
+ 🌱 I'm currently learning React, ThreeJS and TailwindCSS.
     
 <div align = "center">
     
