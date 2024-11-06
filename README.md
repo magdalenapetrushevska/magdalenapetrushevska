@@ -7,7 +7,7 @@
 <h3 align="center">I am interested about various development fields like backend systems, web and app development.</h3>
 
 <br/>
- 🔭 At the moment my work is focused on my already existing projects and their completion.**
+ 🔭 At the moment my work is focused on my already existing projects and their completion.
  
  🌱 I'm currently learning React, ThreeJS and TailwindCSS.
     
